@@ -4,7 +4,7 @@
 // Self-adjusting clock for time zones.
 // Jack Christensen Mar 2012
 //
-// Editted by Jacob Bartholomé Christiaan Mar 2019
+// Editted by Jacob Bartholomé Christiaan Steenbergen Mar 2019
 // Arduino gets ntp time and updates it every minute (good for cheduled tasks)
 
 #include <SPI.h>
