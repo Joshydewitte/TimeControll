@@ -157,13 +157,6 @@ void loop()
     Serial.println("\tcouldn't parse Packet. Got internet?");
     ParseCheck = true;
   }
-
-  //  if ((t(hour)) == (200200))
-  // {
-  //   Serial.println("");
-  //  }
-
-
 }
 
 
